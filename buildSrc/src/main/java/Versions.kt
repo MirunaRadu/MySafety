@@ -14,6 +14,7 @@ object Versions {
     const val viewPager2 = "1.0.0"
     const val cardView = "1.0.0"
     const val glide = "4.9.0"
+    const val navigation = "2.3.4"
 
     // dependency injection
     const val hilt = "2.33-beta"

@@ -15,6 +15,8 @@ object AppDependencies {
     private const val viewPager2 = "androidx.viewpager2:viewpager2:${Versions.viewPager2}"
     private const val cardView = "androidx.cardview:cardview:${Versions.cardView}"
     private const val glide = "com.github.bumptech.glide:glide:${Versions.glide}"
+    private const val navigationComponent = "androidx.navigation:navigation-fragment-ktx:${Versions.navigation}"
+    private const val navigationUi = "androidx.navigation:navigation-ui-ktx:${Versions.navigation}"
 
     // dependency injection
     const val hiltCompiler = "com.google.dagger:hilt-compiler:${Versions.hilt}"
@@ -55,6 +57,8 @@ object AppDependencies {
         add(viewPager2)
         add(cardView)
         add(glide)
+        add(navigationComponent)
+        add(navigationUi)
     }
 
     val appDependencyInjection = arrayListOf<String>().apply {
