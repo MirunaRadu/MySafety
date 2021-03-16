@@ -1,2 +1,2 @@
 include(":app")
-rootProject.name = "MySafety"
+rootProject.name = "Autodeal"

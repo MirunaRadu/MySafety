@@ -1,4 +1,4 @@
-package com.boringapps.mysafety.data
+package com.boringapps.autodeal.data
 
 import retrofit2.Response
 

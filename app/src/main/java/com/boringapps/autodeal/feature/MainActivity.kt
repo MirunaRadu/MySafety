@@ -1,8 +1,8 @@
-package com.boringapps.mysafety.feature
+package com.boringapps.autodeal.feature
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.boringapps.mysafety.R
+import com.boringapps.autodeal.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

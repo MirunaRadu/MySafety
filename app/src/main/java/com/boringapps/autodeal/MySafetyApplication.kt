@@ -1,4 +1,4 @@
-package com.boringapps.mysafety
+package com.boringapps.autodeal
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

@@ -1,4 +1,4 @@
-package com.boringapps.mysafety.base
+package com.boringapps.autodeal.base
 
 import android.os.Bundle
 import androidx.annotation.LayoutRes

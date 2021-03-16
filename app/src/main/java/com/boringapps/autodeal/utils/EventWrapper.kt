@@ -1,4 +1,4 @@
-package com.boringapps.mysafety.utils
+package com.boringapps.autodeal.utils
 
 /**
  * Wraps an event from viewModels, so they are consumed only once.

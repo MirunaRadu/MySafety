@@ -1,4 +1,4 @@
-package com.boringapps.mysafety
+package com.boringapps.autodeal
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

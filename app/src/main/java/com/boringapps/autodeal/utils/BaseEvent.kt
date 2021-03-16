@@ -1,4 +1,4 @@
-package com.boringapps.mysafety.utils
+package com.boringapps.autodeal.utils
 
 /**
  * Base interface for viewModel event classes in order to be scoped to [EventWrapper] using [wrap]

@@ -1,4 +1,4 @@
-package com.boringapps.mysafety.utils
+package com.boringapps.autodeal.utils
 
 import androidx.databinding.ViewDataBinding
 import androidx.lifecycle.LifecycleOwner
